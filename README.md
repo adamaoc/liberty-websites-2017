@@ -1,4 +1,4 @@
-php-mvc-stub
+Liberty Websites
 ============
 
-Stubbed out MVC setup for new PHP projects
+Build files with `gulp watch`
