@@ -1,0 +1,3 @@
+<p>At Liberty Websites we want to help you get your voice heard. If 2016 has proven anything, it's that traditional media is dying off and you can really make a difference by putting your voice or platform online. We've helped get a few grassroots campaigns and blogs started up throughout this past election cycle and we're eager to help more people. Whether you're wanting to get your word out with a simple blog or start a movement with a political website, we can help.</p>
+
+<p>We've designed our plans to be affordable for anyone to get started and we're always here to try and help guide you and teach you what you need to know to be successful online. </p>
